@@ -1,6 +1,6 @@
 # 🛒 BlinkIT Grocery Sales - Power BI Dashboard
 
-![Dashboard Overview](Blinkit_dashboard_overview.png)
+![Dashboard Overview](screenshots/blinkit_dashboard_overview.png)
 
 ---
 
