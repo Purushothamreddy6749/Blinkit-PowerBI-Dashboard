@@ -38,19 +38,19 @@ To analyze BlinkIT's grocery sales data and visualize key business metrics throu
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard](Blinkit_dashboard_overview.png)
+ ![Dashboard Overview](screenshots/blinkit_dashboard_overview.png)
 
 ### 🔹 Sales Analysis
-![Sales](Sales.png)
+![Sales](screenshots/Sales.png)
 
 ### 🔹 Average Sales
-![Avg Sales](avg_sales.png)
+![Avg Sales](screenshots/avg_sales.png)
 
 ### 🔹 Item Analysis
-![Items](Items.png)
+![Items](screenshots/Items.png)
 
 ### 🔹 Ratings View
-![Ratings](rating_view.png)
+ ![Ratings](screenshots/rating_view.png)
 
 ---
 
