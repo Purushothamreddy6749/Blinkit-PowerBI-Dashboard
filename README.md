@@ -38,7 +38,7 @@ To analyze BlinkIT's grocery sales data and visualize key business metrics throu
 ## 🖼️ Dashboard Screenshots
 
 ### 🔹 Dashboard Overview
- ![Dashboard Overview](screenshots/blinkit_dashboard_overview.png)
+![Dashboard](screenshots/blinkit_dashboard_overview.png)
 
 ### 🔹 Sales Analysis
 ![Sales](screenshots/Sales.png)
@@ -50,7 +50,7 @@ To analyze BlinkIT's grocery sales data and visualize key business metrics throu
 ![Items](screenshots/Items.png)
 
 ### 🔹 Ratings View
- ![Ratings](screenshots/rating_view.png)
+![Ratings](screenshots/rating_view.png)
 
 ---
 
@@ -67,13 +67,14 @@ To analyze BlinkIT's grocery sales data and visualize key business metrics throu
 ## 📁 Folder Structure
 
 ```
-PowerBi-dashboard__project/
+Blinkit-PowerBI-Dashboard/
 │
-├── 📊 Blinkit_Sales_Dashboard.pbix     # Power BI Dashboard File
+├── 📁 dashboard/
+│   └── Blinkit_Sales_Dashboard.pbix    # Power BI Dashboard File
 │
 ├── 📁 data/
-│   ├── BlinkIT Grocery Data.xlsx       # Main Dataset (Excel)
-│   └── BlinkIT Grocery Data.csv        # Main Dataset (CSV)
+│   ├── BlinkIT_Grocery_Data.xlsx       # Main Dataset (Excel)
+│   └── BlinkIT_Grocery_Data.csv        # Main Dataset (CSV)
 │
 ├── 📁 screenshots/
 │   ├── blinkit_dashboard_overview.png  # Full Dashboard View
@@ -100,10 +101,10 @@ PowerBi-dashboard__project/
 
 1. Clone or download this repository
    ```bash
-   git clone https://github.com/Purushothamreddy6749/PowerBi-dashboard__project.git
+   git clone https://github.com/Purushothamreddy6749/Blinkit-PowerBI-Dashboard.git
    ```
 2. Open **Power BI Desktop** on your system
-3. Open the file `Blinkit_Sales_Dashboard.pbix`
+3. Open the file `dashboard/Blinkit_Sales_Dashboard.pbix`
 4. Explore the interactive dashboard — use slicers and filters to drill down into the data
 
 ---
@@ -121,6 +122,7 @@ PowerBi-dashboard__project/
 
 **Purushotham Reddy**
 - 🐙 GitHub: [@Purushothamreddy6749](https://github.com/Purushothamreddy6749)
+- 💼 LinkedIn: [R. Purushotham Reddy](https://www.linkedin.com/in/r-purushotham-reddy-97637b32b)
 
 ---
 
@@ -131,4 +133,3 @@ This project is licensed under the **MIT License** — feel free to use and modi
 ---
 
 ⭐ **If you found this project helpful, please give it a star!** ⭐
-
